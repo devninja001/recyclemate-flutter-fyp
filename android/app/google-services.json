@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156134078797",
+    "project_id": "recyclemate-d5205",
+    "storage_bucket": "recyclemate-d5205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156134078797:android:563b4fee4acce8997adf04",
+        "android_client_info": {
+          "package_name": "com.example.RecycleMate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156134078797-l6ir2m9n2qdgneutu1casrekdoorv183.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.RecycleMate",
+            "certificate_hash": "23395efe2c7fa13720b3f231fdf532c5e093eb01"
+          }
+        },
+        {
+          "client_id": "156134078797-4kr1i4l5542cvnemh2m5v73s83la1hts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9I-uVCO2nYIQ_-pJ-qSJR29PX7v8qtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156134078797-4kr1i4l5542cvnemh2m5v73s83la1hts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
